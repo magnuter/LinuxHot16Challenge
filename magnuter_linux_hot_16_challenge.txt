@@ -1,0 +1,16 @@
+zapominalski ignacy wpisuje - help - by mieć komendy na tacy
+whoami - pisujesz gdy słabo swą nazwę zapamiętujesz
+cd - potrzebujesz gdy między katalogami buszujesz
+pwd - serwuje mapę twej drogi niczym zgrabna kelnerka pierogi
+ls -l - katalogi listuje więc gdy się zgubię szybko je wpisuje
+wpisz - cd.nazwa_pliku_swego - , a skopiujesz jego zawartość kolego
+rm - wpisujesz i plik szybko kasujesz
+mkdir - wpisujesz i katalog zyskujesz
+rmdir - wklikasz gdy mówisz pustym katalogom 'znikasz'
+ssh - używasz gdy do serwera przybywasz
+touch - wpisujesz gdy nowego pliku potrzebujesz
+kill - pozwala ubić proces niczym robala
+su - pozwoli zmieniać nazwę do woli
+mv - drogi uzytkowniku umozliwia przenoszenie pliku
+* - to jest gwiazdka wong, zastapisz nią znaków ciąg
+? - tym znakiem zapytania zastąpisz jednego znako-drania
